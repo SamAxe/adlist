@@ -1,0 +1,38 @@
+! Peloton's API, old site 		
+pelotoncycle.com 	
+! Peloton's site, new 		
+onepeloton.com 	
+! Content Delivery Network 	Yes 	Reduces video buffering, higher quality stream
+! cdn.optimizely.com 	
+! Ads, Tracker 		
+amplitude.com 	
+! Ads, Malvertising, Tracker 		Tracks what you do on the tablet/app
+crashlytics.com 	
+! Ads, Malvertising, Content Delivery Network 		
+optimizely.com 	
+! Ads 		
+segment.io 	
+! Ads 		
+segment.com 	
+! Content Delivery Network 		
+pndsn.com 	
+! Content Storage 		
+cloudinary.com 	
+! Video Steaming 	Yes 	Streams Peloton's workout videos. They're stored on these servers.
+! akamaihd.net 	
+! Content Storage 	Yes 	Where Profile images & Achievement Badges are saved
+! s3.amazonaws.com 	
+! Ads, Video Storage 		
+nice264.com 	
+! Ads, Tracker 		
+youboranqs01.com 	
+! Financial Services 		Only used on Peloton's website
+stripe.com 	
+! ? 		
+! google.com 	
+! Social Media 		
+! facebook.com 	
+! Ads, Malvertising, Tracker 		
+mobile-collector.newrelic.com 	
+! Tracker
+mandrillapp.com 	
